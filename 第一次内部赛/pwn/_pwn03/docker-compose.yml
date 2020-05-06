@@ -1,0 +1,12 @@
+version: '2'
+services:
+  pwn:
+    build: .
+    ports:
+      - "9999:8848"
+    volumes:
+      - ./flag:/home/ctf/flag
+networks:
+  default:
+    external:
+      name: pwn_network

@@ -1,0 +1,13 @@
+version: '2'
+services:
+  web:
+    build: .
+    ports:
+      - "9999:80"
+    volumes:
+      - ./flag:/flag
+      - ./web.ini:/usr/local/etc/php/conf.d/web.ini
+networks: 
+  default:
+    external: 
+      name: web_network
