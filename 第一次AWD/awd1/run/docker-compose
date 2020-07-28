@@ -1,0 +1,8 @@
+version: "3"
+services: 
+    awd1_team_:
+        build: ./team_
+        image: awd1_team_
+        ports:
+            - "serverport:80"
+            - "sshport:22"

@@ -1,0 +1,10 @@
+{"team": "队伍名", "ip": "182.92.202.136", "Server": "18512", "ssh": "18511", "user": "ctf", "pass": "OTcwNGQ0ZD", "rootpwd": "MTBjNDQwYm"}
+{"team": "啊这", "ip": "182.92.202.136", "Server": "30375", "ssh": "30374", "user": "ctf", "pass": "OTEzOGU5OD", "rootpwd": "MTBjNDQwYm"}
+{"team": "我好蔡啊", "ip": "182.92.202.136", "Server": "21216", "ssh": "21215", "user": "ctf", "pass": "MzdlMzQyOG", "rootpwd": "MTBjNDQwYm"}
+{"team": "公共跑马场", "ip": "47.112.138.115", "Server": "15238", "ssh": "15237", "user": "ctf", "pass": "YWFhMWE0ND", "rootpwd": "MzRlZGExNG"}
+{"team": "有0day吗", "ip": "47.112.138.115", "Server": "21037", "ssh": "21036", "user": "ctf", "pass": "YWQ0MjBlNT", "rootpwd": "MzRlZGExNG"}
+{"team": "我还有机会吗", "ip": "47.112.138.115", "Server": "32872", "ssh": "32871", "user": "ctf", "pass": "Y2ViMWY4YT", "rootpwd": "MzRlZGExNG"}
+{"team": "给个鸡会", "ip": "101.200.46.25", "Server": "15119", "ssh": "15118", "user": "ctf", "pass": "OGM3NGRkM2", "rootpwd": "ZjRmNzYyYz"}
+{"team": "叫兔子的哈士奇们", "ip": "101.200.46.25", "Server": "25244", "ssh": "25243", "user": "ctf", "pass": "MGY5NmQ1Yj", "rootpwd": "ZjRmNzYyYz"}
+{"team": "送分靶场1", "ip": "101.200.46.25", "Server": "25809", "ssh": "25808", "user": "ctf", "pass": "NWJhYzFlYT", "rootpwd": "ZjRmNzYyYz"}
+{"team": "送分靶场2", "ip": "101.200.46.25", "Server": "13083", "ssh": "13082", "user": "ctf", "pass": "NzVkNWViNz", "rootpwd": "ZjRmNzYyYz"}
